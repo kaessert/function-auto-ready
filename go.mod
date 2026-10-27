@@ -2,6 +2,8 @@ module github.com/crossplane/function-auto-ready
 
 go 1.23.6
 
+toolchain go1.26.10
+
 require (
 	github.com/alecthomas/kong v1.2.1
 	github.com/crossplane/crossplane-runtime v1.18.0
